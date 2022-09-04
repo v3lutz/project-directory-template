@@ -26,6 +26,20 @@ A directory template for audio production projects.
     └── TRACK_INFO.md # Artist, Title, Remixer, Genre, BPM, Key, Export Settings
 ```
 
+## Usage
+
+To use this repo as a template, there are several ways to do it.
+
+1. Click the "Code" dropdown menu button above;
+   1. Download template as ZIP or...;
+   2. Open a terminal in your desired path (i.e. audio production projects' folder) and paste the following command:
+
+   ```bash
+    git clone https://github.com/v3lutz/project-directory-template.git
+   ```
+
+2. Create a clone GitHub repository through the "Use as template" button.
+
 ## Contribute
 
 Feel free to contribute to this template by forking this repository or submitting a Pull Request.
