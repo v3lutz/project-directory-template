@@ -1,0 +1,3 @@
+# 💡 Inspiration
+
+Inspiration, motivation, reference tracks, ideas...
